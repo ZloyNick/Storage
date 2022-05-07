@@ -1,0 +1,19 @@
+{
+    "name": "zloynick/joole-storage",
+    "type": "library",
+    "license": "GPL-3.0.0",
+    "version": "v2.0.1",
+    "autoload": {
+        "psr-4": {
+            "ZloyNick\\JooleStorage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ZloyNick",
+            "email": "zloynick.dev@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
