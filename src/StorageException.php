@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace ZloyNick\JooleStorage;
+namespace ZloyNick\Storage;
 
 use Exception;
 
